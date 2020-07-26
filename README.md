@@ -1,4 +1,4 @@
-Upon completing this Professional Certificate you will be able to:
+Through this Professional Certificate I have learnt to:
 
 * Describe what is Machine Learning (ML), Deep Learning (DL) & Neural Networks
 * Explain ML algorithms including Classification, Regression, Clustering, and Dimensional Reduction
